@@ -15,33 +15,30 @@
 
 
 <div align="center">
-  
-<img width="500" height="500" alt="image" align="center" src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" />
-
-
-<sub>*Figure 1: Windows Installation* </sub>
-  
+  <table>
+    <tr>
+      <td valign="bottom">
+        <img src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" width="320" height="300" alt="Step 1" /><br>
+        <sub><b>Fig 1:</b> Initial Boot</sub>
+      </td>
+      <td valign="bottom">
+        <img src="https://github.com/user-attachments/assets/357167cf-d567-4d83-bf7a-29823b914207" width="320" height="300" alt="Step 2" /><br>
+        <sub><b>Fig 2:</b> OS Selection</sub>
+      </td>
+      <td valign="bottom">
+        <img src="https://github.com/user-attachments/assets/1caf71c4-d8ed-4dc5-a293-58d8679d37c5" width="320" height="300" alt="Step 3" /><br>
+        <sub><b>Fig 3:</b> Partitions</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
-<br>
 <p>I download Windows 11 iso file from the official Microsoft website. 
 I create a virtual machine name Windows Server 2025 and went through changing memory ram processor, iso file path file, size of gigabyte,
 number of cores, and Display setting. After creating the first virtual machine, the picture shows from above shows at the beginning of installation.
 I accept the agreement, select the Desktop Windows 2025, and create three different partitions.
 </p>
-
-
-
-
-<img width="500" height="500" alt="image" align="center" src="https://github.com/user-attachments/assets/357167cf-d567-4d83-bf7a-29823b914207" />
-
-<hr>
-
-<img width="500" height="500" alt="image" align="center" src="https://github.com/user-attachments/assets/1caf71c4-d8ed-4dc5-a293-58d8679d37c5" />
-
-
-
 
 <h2>After adding Active Directory</h2>
 
