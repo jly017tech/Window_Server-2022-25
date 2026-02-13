@@ -1,10 +1,9 @@
-<h1>Windows Server 2022</h1>
+<h1>Windows Server 2022/2025</h1>
 
 <hr>
 
-<h1>Promoting Domain Controller</h1>
 <ul>
-  <li>DC_2024 - Domain Controller VM with Oracle Virtualbox</li>
+  <li/li>
   <li>Active Directory</li>
 </ul>
 
