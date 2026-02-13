@@ -13,7 +13,7 @@
 
 <h2>Installing Windows Server</h2>
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" />
+<img width="500" height="500" alt="image" align="center" src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" />
 
 *Figure 1: Windows Installation* 
 
@@ -27,11 +27,11 @@ I accept the agreement, select the Desktop Windows 2025, and create three differ
 
 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/357167cf-d567-4d83-bf7a-29823b914207" />
+<img width="500" height="500" alt="image" align="center" src="https://github.com/user-attachments/assets/357167cf-d567-4d83-bf7a-29823b914207" />
 
 <hr>
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1caf71c4-d8ed-4dc5-a293-58d8679d37c5" />
+<img width="500" height="500" alt="image" align="center" src="https://github.com/user-attachments/assets/1caf71c4-d8ed-4dc5-a293-58d8679d37c5" />
 
 
 
