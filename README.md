@@ -34,6 +34,7 @@
 </div>
 
 
+
 <p>I download Windows 11 iso file from the official Microsoft website. 
 I create a virtual machine name Windows Server 2025 and went through changing memory ram processor, iso file path file, size of gigabyte,
 number of cores, and Display setting. After creating the first virtual machine, the picture shows from above shows at the beginning of installation.
