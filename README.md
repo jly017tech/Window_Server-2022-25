@@ -41,7 +41,7 @@ number of cores, and Display setting. After creating the first virtual machine, 
 I accept the agreement, select the Desktop Windows 2025, and create three different partitions.
 </p>
 
-<h2>After adding Active Directory</h2>
+<h2>Active Directory </h2>
 
 ![Screenshot from 2025-02-10 23-24-41](https://github.com/user-attachments/assets/e75a5e14-e27b-47c0-a007-abd51b7c5fa9)
 
@@ -57,10 +57,16 @@ I accept the agreement, select the Desktop Windows 2025, and create three differ
 ![Screenshot from 2025-02-10 23-31-53](https://github.com/user-attachments/assets/ac3b5dfc-ee40-48bb-9f6e-4c02fed8f909)
 
 <p>
-  A yellow triangle warnning icon showed up and this is where I setup my domain after installing Active Directory along with 4 components come with.
+  A yellow triangle warning icon showed up and this is where I setup my domain after installing Active Directory along with 4 components come with.
   In the picture, I selected add new forest radio button because I don't have other domain exist and I have to create new domain.
   After it setting up my domain, I go through other steps such as setup password for root domain credential and other procedure.
 </p>
+
+<br>
+
+<img width="1599" height="853" alt="Screenshot from 2026-02-13 08-18-16" src="https://github.com/user-attachments/assets/5e4ecc11-76b5-411b-8850-528fcc9da42a" />
+        <sub><b>Fig 3:</b> Server roles</sub>
+
 
 
 <h2>Promoting domain controller</h2>
