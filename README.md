@@ -58,9 +58,9 @@ Once it finishes installation, the virutal machine reboots and shows a administr
 ![Screenshot from 2025-02-10 23-31-53](https://github.com/user-attachments/assets/ac3b5dfc-ee40-48bb-9f6e-4c02fed8f909)
 
 <p>
-  A yellow triangle warning icon showed up and this is where I setup my domain after installing Active Directory along with 4 components come with.
-  In the picture, I selected add new forest radio button because I don't have other domain exist and I have to create new domain.
-  After it setting up my domain, I go through other steps such as setup password for root domain credential and other procedure.
+  The yellow icon when clicking for noftification is not showing a sign damage file just reminding to promote the domain controller, which I will deal later for the next one.
+  In the picture, I went to Add to roles where all the services such as setting up Windows Deployment Service, Active Directory: Users and Computers, DHCP and DNS server, other componets.  
+
 </p>
 
 <br>
@@ -76,6 +76,7 @@ Once it finishes installation, the virutal machine reboots and shows a administr
 
 <p>
   After setting up OrionWolfDC Domain, I go ahead promote and went through each steps and click start and restarting the computer once it checks its prequisities. 
+  I selected add new forest radio button because I don't have other domain exist and I have to create new domain.
 </p>
 
 
