@@ -5,7 +5,7 @@
 <h2>Table Contents:</h2>
 
 <ul>
-  <li><a href="https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md#installing-windows-server">Installing Windows Server<a/></li>
+  <li>Installing Windows Server</li>
   <li>Active Directory</li>
 </ul>
 
@@ -13,14 +13,25 @@
 
 <h2>Installing Windows Server</h2>
 
-
-* [Installing Windows Server](#https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md#installing-windows-server)
-* [Promoting Domain Controller](#promoting-domain-controller)
-
-
-
-
 <img width="1028" height="846" alt="image" src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" />
+
+*Figure 1: Windows Installation* 
+
+<br>
+<p>I download Windows 11 iso file from the official Microsoft website. 
+I create a virtual machine name Windows Server 2025 and went through changing memory ram processor, size of gigabyte,
+number of cores, and
+</p>
+
+
+
+
+<img width="1019" height="859" alt="image" src="https://github.com/user-attachments/assets/357167cf-d567-4d83-bf7a-29823b914207" />
+
+
+
+<img width="1038" height="849" alt="image" src="https://github.com/user-attachments/assets/1caf71c4-d8ed-4dc5-a293-58d8679d37c5" />
+
 
 
 
