@@ -14,7 +14,7 @@
 <h2>Installing Windows Server</h2>
 
 
-* [Installing Windows Server 2025 with Oracle VirtualBox](#installing-windows-server-2025-with-oracle-virtualbox)
+* [Installing Windows Server](#https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md#installing-windows-server)
 * [Promoting Domain Controller](#promoting-domain-controller)
 
 
